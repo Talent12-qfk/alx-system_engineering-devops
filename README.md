@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-shell is good
-=======
-system devops
->>>>>>> 4baa5634d61f5c717cf06df384383e9f85ecc7cc
+0x00-shell_basics
